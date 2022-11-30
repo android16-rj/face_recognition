@@ -1,4 +1,4 @@
-!pip install opencv -contrib-python
+!pip install opencv-contrib-python
 import numpy as np
 import cv2 as cv
 
